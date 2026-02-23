@@ -1,3 +1,7 @@
+```
+This is a work in progress. Please treat it accordingly.
+```
+
 # CUNY AI Lab Sandbox Documentation
 
 Documentation for the CUNY AI Lab Sandbox (Open WebUI instance at chat.ailab.gc.cuny.edu).

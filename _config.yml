@@ -16,6 +16,18 @@ exclude:
   - README.md
   - CALIBRATION_ROADMAP.md
   - COMPLETION_SUMMARY.md
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 collections:
   design-kit:

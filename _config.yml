@@ -1,0 +1,38 @@
+title: CAIL Documentation
+description: CUNY AI Lab Documentation and Resources
+baseurl: "/sandbox-docs"
+url: "https://cuny-ai-lab.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - CALIBRATION_ROADMAP.md
+  - COMPLETION_SUMMARY.md
+
+collections:
+  design-kit:
+    output: true
+    permalink: /:collection/:name/
+  instructional-kit:
+    output: true
+    permalink: /:collection/:name/
+  pilot:
+    output: true
+    permalink: /:collection/:name/
+  starter-kit:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

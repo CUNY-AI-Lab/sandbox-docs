@@ -8,7 +8,7 @@ The first time students use the Sandbox, they need more than a login link. They 
 
 ### Prepare Your Environment
 
-1. Create the models and knowledge bases students will use (see the [Design Kit](../design-kit/index.md))
+1. Create the models and knowledge bases students will use (see the [Design & Test section](index.md))
 2. Set visibility to **Limited** and share with your course group
 3. Test each model with the kinds of questions your students will ask
 4. Write a brief AI use policy for your syllabus (see the template below)
@@ -26,7 +26,7 @@ Your policy should address:
 
 **Template:**
 
-> This course uses the CUNY AI Lab Sandbox for specific assignments marked [AI-Assisted]. For these assignments, you may use the course model to brainstorm, get feedback, or explore ideas. You must disclose AI use in your submission and describe how you used it. All final writing, analysis, and argumentation must be your own. Do not paste other students' work or personal information into any AI tool. For assignments not marked [AI-Assisted], AI use is not permitted.
+> This course uses the CUNY CAIL Sandbox for specific assignments marked [AI-Assisted]. For these assignments, you may use the course model to brainstorm, get feedback, or explore ideas. You must disclose AI use in your submission and describe how you used it. All final writing, analysis, and argumentation must be your own. Do not paste other students' work or personal information into any AI tool. For assignments not marked [AI-Assisted], AI use is not permitted.
 
 Adapt the template to your context. Some courses will be more permissive. Some will restrict AI to specific tasks. The key is clarity.
 
@@ -52,7 +52,7 @@ Frame the Sandbox in your course context. Students need to understand why you ch
 
 ### Day 1: First Login (10 minutes)
 
-Walk students through the login process. Project your screen or share a link to the [Getting Started](../starter-kit/getting-started.md) page.
+Walk students through the login process. Project your screen or share a link to the [Getting Started](getting-started.md) page.
 
 1. Navigate to [chat.ailab.gc.cuny.edu](https://chat.ailab.gc.cuny.edu)
 2. Click **Sign in with CUNY Login**
@@ -93,7 +93,7 @@ Once students are comfortable with the interface, introduce critical engagement.
 Anticipate these and have answers ready:
 
 **"Is this cheating?"**
-Not when used as directed. Your AI use policy defines the boundaries. Using the course model for an [AI-Assisted] assignment is the same as using a calculator in a math class or a spell-checker in a writing class. Using it on a non-AI assignment, or submitting AI output as your own work, violates academic integrity.
+Not when used as directed. Your AI use policy defines the boundaries. Using the course model for an [AI-Assisted] assignment is the same as using a calculator in a math class or a spell-checker in a writing class. Using it on a non-AI assignment, or submitting AI output as your own work, violates course expectations.
 
 **"Can the AI see my other conversations?"**
 Each conversation is separate. The model does not remember previous chats unless you are in the same thread. Other students cannot see your conversations.
@@ -126,16 +126,16 @@ It will. AI models generate plausible text, and sometimes that text is inaccurat
 ## Callout
 
 <div class="callout">
-  <strong>For TAs and course assistants:</strong> Familiarize yourself with the course model before the semester starts. Students will ask you questions about AI that go beyond the onboarding materials. Spend 30 minutes exploring the model so you can answer from experience.
+  <strong>For TAs and teaching staff:</strong> Familiarize yourself with the course model before the semester starts. Students will ask you questions about AI that go beyond the onboarding materials. Spend 30 minutes exploring the model so you can answer from experience.
 </div>
 
 ---
 
 ## Additional Resources
 
-- [Teach@CUNY AI Toolkit: Academic Integrity](https://aitoolkit.commons.gc.cuny.edu/) — CUNY-specific guidance on AI and academic honesty
-- [Getting Started](../starter-kit/getting-started.md) — the student-facing login guide
-- [Pedagogical Patterns](pedagogical-patterns.md) — strategies for integrating AI throughout your course
+- [Teach@CUNY AI Toolkit](https://aitoolkit.commons.gc.cuny.edu/) — CUNY-specific guidance on teaching with AI
+- [Getting Started](getting-started.md) — the student-facing login guide
+- [Teaching Tips](teaching-tips.md) — strategies for integrating AI throughout your course
 
 ---
 

@@ -1,26 +1,6 @@
 # Extending Models with Tools & Skills
 
-Out of the box, a model can only generate text. It cannot search the web, run code, query a database, or look up a paper on arXiv. Tools change that. When you enable a tool, the model can call it during a conversation, process the result, and weave it into its response.
-
-Skills work differently. Where tools connect to external services, skills provide specialized knowledge domains that the model can draw on without you modifying the system prompt. Think of tools as hands and skills as expertise.
-
----
-
-## Why This Matters
-
-A writing tutor model that can only generate text is useful. A writing tutor that can also search your university's style guide, pull citation examples from a knowledge base, and look up a source on arXiv is considerably more useful. Tools and skills turn a conversational AI into something closer to a research workbench.
-
-For CUNY instructors, this means building models that do more than talk. A public health methods model can query PubMed. A digital humanities model can run Python code for text analysis. A course advisor can check the academic calendar.
-
----
-
-## Model Uses
-
-- **Research Assistant with Database Access**: Enable arXiv Search and web tools on a literature review model. Students can ask the model to find recent papers on a topic, and it retrieves real results with actual links.
-- **Coding Tutor with Live Execution**: Bind the Code Interpreter tool to a programming model. Students submit code, the model runs it, identifies errors, and explains the output.
-- **Media-Rich Presentations**: Enable Pexels Media Search and Image Generation. Students or instructors can find stock images and generate visuals during lesson planning conversations.
-- **Current Events Analysis**: Enable web search on a political science or journalism model. Conversations can reference today's news.
-- **Domain Expert**: Bind quantitative methods or academic writing skills to a model. The model gains access to detailed procedural knowledge for statistical analysis or citation practices without you writing it all into the system prompt.
+Out of the box, a model can only generate text. Tools change that: enable a tool and the model can search the web, run code, query a database, or look up papers on arXiv during a conversation. Skills work differently. Where tools connect to external services, skills provide specialized knowledge domains the model draws on without you modifying the system prompt. Think of tools as hands and skills as expertise.
 
 ---
 
@@ -93,7 +73,10 @@ When a user's question falls within a skill's domain, the model loads the releva
 
 ---
 
-## Going Deeper
+## Advanced Settings
+
+<details>
+<summary>View details</summary>
 
 ### Building Custom Tools
 
@@ -104,6 +87,8 @@ Go to **Workspace > Tools > + New Tool** to get started. Consult with the AI Lab
 ### Tool Security
 
 Tools are Python scripts that execute on the server. A poorly written or malicious tool can access system resources, exfiltrate data, or disrupt service. Only install tools from trusted sources. The AI Lab maintains an approved tool list. Contact the team before adding community tools to the instance.
+
+</details>
 
 ---
 

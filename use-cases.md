@@ -14,8 +14,8 @@ A graduate seminar in Public Health requires students to conduct a systematic li
 
 **Components:**
 
-**Model:** Research Assistant  
-- **Base model:** GPT-4 or Claude Sonnet (for reasoning and synthesis)
+**Model:** Literature Review Support  
+- **Base model:** DeepSeek V3.2 or Kimi K2.5 (strong reasoning and synthesis)
 - **System prompt:** Guides students through literature review stages (topic refinement, search strategy development, source evaluation)
 - **Knowledge base:** Uploaded documents include:
   - Methodological readings on systematic reviews
@@ -71,7 +71,7 @@ Instructor reviews drafts. Final papers submitted Week 15.
 
 **Student-Facing Instructions:**
 
-> Use the Research Assistant model to support your literature review process. It can help you refine your topic, develop search strategies, and synthesize findings. It cannot replace reading the sources yourself. You are expected to read each article, evaluate its methods, and determine its relevance to your research question. Use the model to organize your thinking, not to do your thinking for you.
+> Use the model to support your literature review process. It can help you refine your topic, develop search strategies, and synthesize findings. It cannot replace reading the sources yourself. You are expected to read each article, evaluate its methods, and determine its relevance to your research question. Use the model to organize your thinking, not to do your thinking for you.
 
 ---
 
@@ -83,8 +83,8 @@ An undergraduate composition course (ENG 110) focuses on developing academic wri
 
 **Components:**
 
-**Model:** Writing Tutor  
-- **Base model:** GPT-4 or Claude Sonnet
+**Model:** Writing Process Support  
+- **Base model:** DeepSeek V3.2 or Kimi K2.5
 - **System prompt:** Configured to ask questions instead of rewriting. Responds to drafts with feedback aligned with the course rubric.
 - **Knowledge base:** Uploaded documents include:
   - Course rubric
@@ -131,7 +131,7 @@ Students integrate 5-7 sources into an argument:
 
 **Student-Facing Instructions:**
 
-> The Writing Tutor model is available to help you develop your essays. It will not write essays for you. Instead, it asks questions about your drafts to help you clarify your thinking and strengthen your arguments. You can submit outlines, rough drafts, and revised drafts for feedback. Include your revision reflections in your final submission to show how you used feedback from the model, peers, and me.
+> The model is available to help you develop your essays. It will not write essays for you. Instead, it asks questions about your drafts to help you clarify your thinking and strengthen your arguments. You can submit outlines, rough drafts, and revised drafts for feedback. Include your revision reflections in your final submission to show how you used feedback from the model, peers, and me.
 
 ---
 
@@ -144,7 +144,7 @@ A graduate methods seminar in Education requires students to design a small-scal
 **Components:**
 
 **Model:** Methods Consultant  
-- **Base model:** GPT-4 or Claude Sonnet
+- **Base model:** DeepSeek V3.2 or Kimi K2.5
 - **System prompt:** Provides methodological guidance. Asks probing questions about research design choices.
 - **Knowledge base:** Uploaded documents include:
   - Course readings on qualitative and quantitative methods
@@ -208,7 +208,7 @@ An advanced academic writing course for multilingual graduate students. Students
 **Components:**
 
 **Model:** Language Learning Partner  
-- **Base model:** GPT-4 or Claude Sonnet (multilingual support)
+- **Base model:** Kimi K2.5 or GLM 5 (strong multilingual support)
 - **System prompt:** Configured to support multilingual writers. Responds to writing in English, translates when requested, explains academic conventions.
 - **Knowledge base:** Uploaded documents include:
   - Disciplinary writing samples (e.g., STEM lab reports, humanities literature reviews)
@@ -267,7 +267,7 @@ A senior capstone seminar requires students to complete a major independent proj
 **Components:**
 
 **Model:** Capstone Advisor  
-- **Base model:** GPT-4 or Claude Sonnet
+- **Base model:** DeepSeek V3.2 or Kimi K2.5
 - **System prompt:** Configured to ask guiding questions, provide accountability, and surface issues early.
 - **Knowledge base:** Uploaded documents include:
   - Capstone guidelines and rubric
@@ -340,11 +340,11 @@ These use cases share common principles:
 
 ## Additional Resources
 
-- **[Pedagogical Patterns](pedagogical-patterns.md)** — conceptual frameworks for AI integration
+- **[Teaching Tips](teaching-tips.md)** — conceptual frameworks for AI integration
 - **[Sample Activities](sample-activities.md)** — shorter, modular exercises you can drop into courses
 - **[Student Onboarding](student-onboarding.md)** — guidance for introducing students to AI tools responsibly
 - **[Teach@CUNY AI Toolkit](https://aitoolkit.commons.gc.cuny.edu/)** — assignment redesign strategies and policy templates
 
 ---
 
-[← Return to Pedagogical Patterns](pedagogical-patterns.md) | [Return to Instructional Kit](index.md)
+[← Return to Teaching Tips](teaching-tips.md) | [Return to Home](index.md)

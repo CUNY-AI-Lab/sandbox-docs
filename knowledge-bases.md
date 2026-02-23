@@ -1,32 +1,12 @@
-# Grounding AI in Your Course Materials
+# Grounding AI with Knowledge Collections
 
-When you chat with a base model, it draws on whatever it absorbed during training. That training data may be months or years old. It may not include your syllabus, your department's policies, or the articles you assigned last week. A Knowledge Base changes that. You upload your documents, and the model searches them before responding.
+A Knowledge Base lets you upload your own documents so the model searches them before responding. This process is called Retrieval-Augmented Generation (RAG): the model checks your files, retrieves relevant passages, and uses them to answer.
 
-This process is called Retrieval-Augmented Generation (RAG). It means the model checks your documents before answering.
-
----
-
-## Why This Matters
-
-Consider the difference. A student asks your course model: "What does the syllabus say about late submissions?" Without a knowledge base, the model guesses, drawing on generic academic policies from its training data. It might sound confident. It might be completely wrong.
-
-With your syllabus in a knowledge base, the model retrieves the actual passage from your document and uses it to answer. It cites what you wrote, not what it imagines you might have written.
-
-This matters especially at CUNY, where students navigate multiple courses, departments, and institutional policies. A model grounded in your actual materials gives students reliable answers drawn from the documents you trust.
+Consider the difference. A student asks your course model: "What does the syllabus say about late submissions?" Without a knowledge base, the model guesses, and the response might sound confident while being completely wrong. With your syllabus uploaded, the model retrieves the actual passage and cites what you wrote. At CUNY, where students navigate multiple courses, departments, and institutional policies, grounding a model in your actual materials gives students reliable answers from documents you trust.
 
 ---
 
-## Model Uses
-
-- **Course Q&A**: Upload your syllabus, assignment sheets, and grading rubric. Students can ask questions about deadlines, policies, and expectations and get answers grounded in your actual documents.
-- **Literature Review Support**: Load 30 papers from your Zotero library. Ask the model to compare methodological approaches, identify themes, or flag contradictions across sources. It retrieves relevant passages and cites the papers you uploaded.
-- **Program Advising**: Upload the graduate handbook, degree requirements, and course catalog. Build an advisor model that answers procedural questions about program milestones without you fielding the same email for the tenth time.
-- **Writing Feedback Grounded in Rubrics**: Combine your rubric with sample strong papers in a knowledge base. The model can reference both when providing feedback on student drafts, aligning its suggestions with your actual criteria.
-- **Multilingual Source Work**: Upload primary sources in multiple languages. Students can pose questions in English and get responses that retrieve and synthesize passages from Spanish, Mandarin, or French language documents in your collection.
-
----
-
-## Getting Started
+## Creating a Knowledge Base
 
 ### Creating a Knowledge Base
 
@@ -71,7 +51,10 @@ Now every conversation with that model draws from your uploaded documents.
 
 ---
 
-## Going Deeper
+## Advanced Settings
+
+<details>
+<summary>View details</summary>
 
 ### What Happens Under the Hood
 
@@ -118,6 +101,8 @@ information. Prioritize accuracy over elaboration.
 
 The default embedding model (Sentence Transformers MiniLM-L6) works well for most use cases. Administrators can change it in **Admin Panel > Settings > Documents**. Alternative models are available through Hugging Face. Changing the embedding model re-indexes all uploaded documents, so plan accordingly.
 
+</details>
+
 ---
 
 ## Callout
@@ -136,4 +121,4 @@ The default embedding model (Sentence Transformers MiniLM-L6) works well for mos
 
 ---
 
-[← Return to Models](models.md) | [Continue to Tools & Skills →](tools-skills.md)
+[← Return to Custom Models](models.md) | [Continue to Tools & Skills →](tools-skills.md)

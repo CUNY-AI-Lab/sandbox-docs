@@ -1,27 +1,10 @@
 # Roles & Permissions
 
-When you share a model, knowledge base, or prompt with your students, you need to control who can use it, who can edit it, and who can see it at all. Roles and permissions give you that control without requiring admin access for every decision.
+When you share a model, knowledge base, or prompt with students, you need to control who can use it, who can edit it, and who can see it. Roles and permissions give you that control. The Sandbox serves faculty, graduate students, undergraduates, and staff across multiple departments. Clear permissions prevent confusion and protect sensitive institutional data.
 
 ---
 
-## Why This Matters
-
-The Sandbox serves a diverse community: administrators, faculty, graduate students, undergraduates, and staff. Not everyone needs the same level of access. A faculty member building course models needs different permissions than a first-year student using those models. A research team sharing a knowledge base needs to restrict it to their group without making it visible to the entire instance.
-
-At CUNY, where a single platform may serve multiple departments, programs, and user populations, clear permissions prevent confusion and protect sensitive institutional data.
-
----
-
-## Model Uses
-
-- **Course Sections**: Create a group for each section you teach. Share your course model and knowledge bases with that group. Students see only their section's resources.
-- **Research Teams**: Set up a group for your lab or project team. Share specialized models, curated knowledge bases, and custom tools. When a team member leaves, remove them from the group and their access revokes.
-- **Department Coordination**: Faculty across a department share a common prompt library and model templates. New instructors inherit the department's configurations and customize from there.
-- **Student Projects**: Give student groups limited access to build their own models within boundaries you define. They can create private configurations but cannot modify shared departmental resources.
-
----
-
-## Understanding Roles
+## How Roles Work
 
 The Sandbox supports three role tiers:
 
@@ -47,7 +30,7 @@ Every resource you create has a visibility setting:
 2. **Limited** — shared with specific users or groups you designate
    - The most common setting for course-specific resources
 3. **Public** — available to all Sandbox users
-   - Use for resources that serve the entire community (e.g., a general writing tutor)
+   - Use for resources that serve the entire community (e.g., a quantitative methods model)
 
 ### Setting Visibility
 
@@ -85,7 +68,10 @@ When you share a resource with a group:
 
 ---
 
-## Going Deeper
+## Advanced Settings
+
+<details>
+<summary>View details</summary>
 
 ### SCIM 2.0 Provisioning
 
@@ -95,7 +81,9 @@ Contact the AI Lab team to configure SCIM integration for your department.
 
 ### Permission Inheritance
 
-Custom roles inherit from the default `@everyone` baseline, similar to how Discord handles role permissions (see the Discord Educational Toolkit's [Role Management](../discord-toolkit-md/design-kit/role-management.md) guide for a parallel example). When you create a new group, its members start with standard user permissions. You then layer on additional access through resource sharing.
+Custom roles inherit from the default `@everyone` baseline, similar to how Discord handles role permissions (see the Discord Educational Toolkit's [Role Management](../discord-toolkit-md/role-management.md) guide for a parallel example). When you create a new group, its members start with standard user permissions. You then layer on additional access through resource sharing.
+
+</details>
 
 ---
 
@@ -110,9 +98,9 @@ Custom roles inherit from the default `@everyone` baseline, similar to how Disco
 ## Additional Resources
 
 - [Open WebUI User Management](https://docs.openwebui.com) — official documentation for roles, groups, and SCIM provisioning
-- [Discord Educational Toolkit: Role Management](../discord-toolkit-md/design-kit/role-management.md) — a parallel approach to roles and permissions in another educational platform
+- [Discord Educational Toolkit: Role Management](../discord-toolkit-md/role-management.md) — a parallel approach to roles and permissions in another educational platform
 - [CUNY IT Policies](https://www.cuny.edu/about/administration/offices/cis/it-policies/) — institutional guidelines for data access and user management
 
 ---
 
-[← Return to Tools & Skills](tools-skills.md) | [Continue to Instructional Kit →](../instructional-kit/index.md)
+[← Return to Tools & Skills](tools-skills.md) | [Teaching Tips →](teaching-tips.md)

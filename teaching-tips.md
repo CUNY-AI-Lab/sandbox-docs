@@ -1,18 +1,10 @@
-# Pedagogical Patterns for AI Integration
+# Teaching Tips
 
-Integrating AI into teaching requires more than technical setup. It demands intentional pedagogical design that preserves learning objectives, supports academic integrity, and develops students' critical capacities. This page offers patterns drawn from research on AI in education and adapted for CUNY contexts.
-
----
-
-## Why This Matters
-
-AI tools can enhance learning or shortcut it. The difference lies in how you frame their use. A writing tutor model can help students develop their voice, or it can generate essays they submit without thinking. A research assistant can teach source evaluation, or it can enable passive consumption of synthesized information.
-
-CUNY students navigate complex lives. Many balance work, family, and study. Many are multilingual. Many face systemic barriers to academic success. AI tools can support these students or amplify existing inequities. Pedagogical intentionality determines the outcome.
+Integrating AI into teaching requires intentional pedagogical design. A model configured to support writing can help students develop their voice or generate essays they submit without thinking. The difference lies in how you frame its use. CUNY students navigate complex lives, balancing work, family, and study. Many are multilingual. AI tools can support these students or amplify existing inequities. Pedagogical intentionality determines the outcome.
 
 ---
 
-## Pattern 1: Learning Objectives First
+## Tip #1: Learning Objectives First
 
 **Principle:** Start with what students should learn, not what AI can do.
 
@@ -37,11 +29,11 @@ When designing an AI-integrated activity:
 
 ---
 
-## Pattern 2: Progressive Disclosure
+## Tip #2: Progressive Disclosure
 
 **Principle:** Scaffold student AI use from guided to independent, simple to complex.
 
-Students who encounter AI tools without scaffolding often default to one of two extremes: avoiding them entirely (fearing academic integrity violations) or using them uncritically (treating outputs as authoritative). Progressive disclosure builds competence and critical judgment incrementally.
+Students who encounter AI tools without scaffolding often default to one of two extremes: avoiding them entirely (fearing they'll use them wrong) or using them uncritically (treating outputs as authoritative). Progressive disclosure builds competence and critical judgment incrementally.
 
 **Stages:**
 
@@ -49,7 +41,7 @@ Students who encounter AI tools without scaffolding often default to one of two 
 
 2. **Constrained practice:** Students use AI for specific, bounded tasks with clear learning objectives. Example: "Use the model to generate three counterarguments to your thesis, then evaluate which is strongest and why."
 
-3. **Reflective application:** Students use AI in their workflow and document their process. Example: "Describe how you used the research assistant model, what it helped you understand, and where its limitations became apparent."
+3. **Reflective application:** Students use AI in their workflow and document their process. Example: "Describe how you used the model, what it helped you understand, and where its limitations became apparent."
 
 4. **Independent integration:** Students determine when and how to use AI tools based on their learning needs.
 
@@ -59,11 +51,11 @@ Many CUNY students are first-generation college students. They may not have taci
 
 ---
 
-## Pattern 3: Academic Integrity as Learning
+## Tip #3: Assignment Expectations and Learning
 
-**Principle:** Treat academic integrity as a skill to develop, not a rule to enforce.
+**Principle:** Help students understand what counts as their work, not just what counts as cheating.
 
-AI complicates academic integrity. Traditional honor codes assume clear boundaries: your work versus someone else's work. AI blurs that distinction. A student who prompts an AI model and revises its output is doing *some* work. How much is enough?
+AI blurs the line between "your work" and "someone else's work." A student who prompts an AI model and revises its output is doing *some* work. How much is enough?
 
 Instead of policing boundaries, teach students to recognize the difference between AI that supports learning and AI that replaces it.
 
@@ -86,7 +78,7 @@ Ask students to reflect on three questions:
 
 ---
 
-## Pattern 4: Visible Learning
+## Tip #4: Visible Learning
 
 **Principle:** Make learning processes visible to students and yourself.
 
@@ -113,7 +105,7 @@ Each stage surfaces student thinking. You can intervene when students struggle. 
 
 ---
 
-## Pattern 5: Metacognitive Prompting
+## Tip #5: Metacognitive Prompting
 
 **Principle:** Design prompts that require students to think about their thinking.
 
@@ -137,7 +129,7 @@ These questions are not performative. They build students' capacity to monitor a
 
 ---
 
-## Pattern 6: Formative Over Summative
+## Tip #6: Formative Over Summative
 
 **Principle:** Use AI tools primarily for formative assessment and learning support, not high-stakes summative evaluation.
 
@@ -150,7 +142,7 @@ Formative assessment shifts the focus. Students receive feedback. They revise. T
 - **Brainstorming partner:** Students generate ideas with a model before writing.
 - **Peer review simulator:** Students submit drafts to a model configured to provide feedback aligned with your rubric.
 - **Concept checker:** Students explain a concept to the model. The model asks clarifying questions. Students refine their understanding.
-- **Research assistant:** Students locate sources, identify patterns, and develop research questions with AI support.
+- **Research support:** Students locate sources, identify patterns, and develop research questions with AI support.
 
 **Summative Alternatives:**
 
@@ -162,7 +154,7 @@ If you need summative assessment that resists AI shortcuts:
 
 ---
 
-## Pattern 7: Critical AI Literacy
+## Tip #7: Critical AI Literacy
 
 **Principle:** Teach students to question AI systems, not just use them.
 
@@ -187,7 +179,7 @@ CUNY students bring diverse linguistic, cultural, and epistemological perspectiv
 
 ---
 
-## Pattern 8: Inclusive Design
+## Tip #8: Inclusive Design
 
 **Principle:** Design AI-integrated activities with CUNY's diverse student population in mind.
 
@@ -210,7 +202,7 @@ AI tools can support or marginalize these students depending on how you deploy t
 
 ---
 
-## Pattern 9: Transparency
+## Tip #9: Transparency
 
 **Principle:** Be explicit about when and how you use AI in your teaching.
 
@@ -220,7 +212,7 @@ Transparency builds trust. Students see that you are navigating the same uncerta
 
 **Example:**
 
-> "I used the research assistant model to locate five papers on scaffolding in writing pedagogy. I verified each citation and read the abstracts to confirm relevance. Two were useful. Three were off-target. Here's what I learned about prompting for academic sources..."
+> "I used the model to locate five papers on scaffolding in writing pedagogy. I verified each citation and read the abstracts to confirm relevance. Two were useful. Three were off-target. Here's what I learned about prompting for academic sources..."
 
 This disclosure does two things:
 1. It models critical AI use
@@ -232,7 +224,7 @@ This disclosure does two things:
 
 These patterns are not prescriptive. They are starting points. Your discipline, your students, and your teaching context will shape how you apply them.
 
-The core principle: **AI should support learning, not replace it.** When in doubt, ask:
+When in doubt, ask:
 - Does this use develop students' capacities?
 - Does it make learning visible?
 - Does it encourage critical thinking?
@@ -246,8 +238,7 @@ If the answer is yes, proceed. If no, redesign.
 - **[Teach@CUNY AI Toolkit](https://aitoolkit.commons.gc.cuny.edu/)** — pedagogical guidance on AI in the classroom, including assignment redesign and policy templates
 - **[Sample Activities](sample-activities.md)** — concrete exercises applying these patterns
 - **[Student Onboarding](student-onboarding.md)** — first-week plans for introducing students to AI tools responsibly
-- **[CUNY Academic Integrity Policy](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/)** — institutional framework for academic honesty
 
 ---
 
-[← Return to Instructional Kit](index.md) | [Continue to Use Cases →](use-cases.md)
+[← Return to Home](index.md) | [Continue to Use Cases →](use-cases.md)

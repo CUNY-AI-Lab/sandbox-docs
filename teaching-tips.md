@@ -1,14 +1,12 @@
-# Teaching Tips
-
-Integrating AI into teaching requires intentional pedagogical design. A model configured to support writing can help students develop their voice or generate essays they submit without thinking. The difference lies in how you frame its use. CUNY students navigate complex lives, balancing work, family, and study. Many are multilingual. AI tools can support these students or amplify existing inequities. Pedagogical intentionality determines the outcome.
+Integrating AI into teaching requires intentional pedagogical design. A generative AI model configured for writing instruction can either help students develop their voice or generate essays students submit without actively thinking or learning in the process. The difference lies in how you frame its use both in and out of the classroom as a form of collaborative learning. Not only do CUNY undergraduates lead complex lives, balancing jobs, family obligations, and coursework, many are also international or first-generation college students. In turn, AI tools carry the potential to support their learning or amplify existing inequities, and your pedagogical intentionality with these tools will shape the outcome.
 
 ---
 
-## Tip #1: Learning Objectives First
+## Tip #1: Reflect on Learning Objectives
 
-**Principle:** Start with what students should learn, not what AI can do.
+**Principle:** Start with what (skills) students should learn, not with what AI can do.
 
-AI capabilities tempt backward design: "This tool can do X, so let's assign Y." That reverses the proper sequence. Begin with your learning objectives. Then ask whether and how AI might support them.
+AI capabilities often tempt instructors toward backward design: "This tool can do X, so let's assign Y." That reverses the proper sequence. Instead, begin with your learning objectives for the course or the assignment, then ask whether and how students may benefit from AI tools to achieve the objectives.
 
 **Example:**
 
@@ -17,29 +15,29 @@ Learning objective: "Students will develop the ability to construct evidence-bas
 Question: Does AI support this objective?
 - If AI generates the argument: No. The student bypasses the learning.
 - If AI helps students locate relevant sources and identify counterarguments: Possibly. The student still constructs the argument.
-- If AI critiques a student's draft argument for logical gaps: Yes. The student receives feedback that supports revision.
+- If AI critiques a student's draft argument for logical gaps: Yes. The student receives productive feedback that supports revision.
 
 **Application:**
 
 When designing an AI-integrated activity:
-1. State the learning objective explicitly
-2. Map the cognitive tasks required to meet that objective
-3. Identify which tasks AI should support and which students must do themselves
-4. Build constraints into the model or assignment that prevent AI from doing the learning for the student
+1. State the learning objective explicitly.
+2. Map the cognitive tasks required to meet that objective.
+3. Identify which tasks AI can provide assistance and which tasks students should do by themselves.
+4. Build constraints into the model or the assignment that prevent AI from doing the learning for the student.
 
 ---
 
 ## Tip #2: Progressive Disclosure
 
-**Principle:** Scaffold student AI use from guided to independent, simple to complex.
+**Principle:** Scaffold student’s AI use from guided to independent, simple to complex.
 
-Students who encounter AI tools without scaffolding often default to one of two extremes: avoiding them entirely (fearing they'll use them wrong) or using them uncritically (treating outputs as authoritative). Progressive disclosure builds competence and critical judgment incrementally.
+Students who encounter AI tools without scaffolding often default to one of two extremes: avoiding them entirely (fearing they'll use them wrong) or using them uncritically (treating outputs as authoritative). Progressive disclosure builds competence and critical judgment incrementally, giving students space to progress at their own pace.
 
 **Stages:**
 
-1. **Guided exploration:** Instructor demonstrates AI use in class. Students observe how to prompt, critique outputs, and integrate results into their own thinking.
+1. **Guided exploration:** The instructor demonstrates AI use in class. Students observe how to prompt AI, critique/evaluate outputs, and integrate results into their own thinking and work.
 
-2. **Constrained practice:** Students use AI for specific, bounded tasks with clear learning objectives. Example: "Use the model to generate three counterarguments to your thesis, then evaluate which is strongest and why."
+2. **Constrained practice:** Students use AI for specific, bounded tasks with clear learning objectives. Example: "Use the model to generate three counterarguments to your thesis, then evaluate which one is strongest and explain why."
 
 3. **Reflective application:** Students use AI in their workflow and document their process. Example: "Describe how you used the model, what it helped you understand, and where its limitations became apparent."
 
@@ -53,28 +51,33 @@ Many CUNY students are first-generation college students. They may not have taci
 
 ## Tip #3: Assignment Expectations and Learning
 
-**Principle:** Help students understand what counts as their work, not just what counts as cheating.
+**Principle:** Help students understand what counts as their work and why this matters.
 
-AI blurs the line between "your work" and "someone else's work." A student who prompts an AI model and revises its output is doing *some* work. How much is enough?
+AI blurs the line between "your work" and "someone else's work." A student who prompts an AI model and revises its output is doing *some* work. What does it mean for students to work toward established learning goals in your class, and how will you know when they meet them? 
 
 Instead of policing boundaries, teach students to recognize the difference between AI that supports learning and AI that replaces it.
 
 **Framework:**
 
 Ask students to reflect on three questions:
-1. **What did I learn from using this tool?** If the answer is "nothing," the use likely shortcut learning.
-2. **Could I explain or defend the output?** If not, the student has not engaged critically.
-3. **Does this use align with the assignment's learning objectives?** If unclear, the student should ask.
+1. **What did I learn from using this tool?** If the answer is "nothing," the use likely shortcuts the learning.
+2. **Could I explain or defend the output?** If not, the student has not engaged with it critically.
+3. **Does this use align with the assignment's learning objectives?** If the answer is unclear, the student should be encouraged to ask you as their instructor and bring the question to their peers as a learning opportunity. 
 
 **Practical Implementation:**
 
-- Include AI use guidance in every assignment prompt. Specify what is encouraged, what is discouraged, and why.
-- Ask students to document their AI use in a brief process note. Not to police them, but to build metacognitive awareness.
-- Model appropriate AI use yourself. Show students how you use AI tools in your own research or teaching prep.
+- Include AI use guidance in every assignment prompt. Be explicit and specific about what kind of use is encouraged, what is discouraged, and why.
+- Ask students to submit a brief process note documenting their AI use as a way to build metacognitive awareness throughout the semester. .
+- Model appropriate AI use yourself: show students how you use AI tools in your own research or teaching preparation to encourage transparency and collaborative learning in the classroom. 
+
+**Example:**
+
+> "I used the model to locate five papers on scaffolding in writing pedagogy. I verified each citation and read the abstracts to confirm relevance. Two were useful. Three were off-target. Here's what I learned about prompting for academic sources..."
 
 **Sample Syllabus Language:**
 
-> AI tools like the Sandbox models can support your learning when used thoughtfully. You are encouraged to use them for brainstorming, source discovery, and feedback on drafts. You are expected to do the intellectual work yourself: constructing arguments, evaluating sources, and synthesizing ideas. If you are unsure whether a particular use is appropriate, ask before submitting.
+> AI tools like the Sandbox models can support your learning when used thoughtfully. You are encouraged to use them for brainstorming, discovering and vetting sources, adapting texts into 
+more accessible formats, or reading and reviewing constructive feedback on their drafts. Remember, you are expected to do the intellectual work yourself, such as synthesizing ideas, evaluating secondary sources, and constructing arguments. If you are unsure whether AI use is appropriate for an assignment, please reach out to me at [instructor-email] before submitting.
 
 ---
 
@@ -115,8 +118,8 @@ AI models excel at generating fluent text. They do not excel at metacognition. B
 
 - "Explain your reasoning process for solving this problem. Where did you feel confident? Where uncertain?"
 - "What assumptions are you making in this argument? How would your conclusion change if those assumptions were false?"
-- "Compare your initial understanding of this concept to your current understanding. What shifted?"
-- "If you were teaching this material to a peer, what would you emphasize? What would you skip? Why?"
+- "Compare your initial understanding of this concept to your current understanding. What changed?"
+- "If you were teaching this material to a friend, what would you emphasize? What would you skip? Why?"
 
 **Application in AI-Integrated Assignments:**
 
@@ -125,7 +128,7 @@ Ask students to document how they used AI tools and what they learned from the i
 - "How did you evaluate the model's response? What made you trust or distrust it?"
 - "What did the model help you understand? Where did it mislead or confuse you?"
 
-These questions are not performative. They build students' capacity to monitor and regulate their own learning.
+These questions build students' capacity to monitor and regulate their own learning.
 
 ---
 
@@ -156,19 +159,19 @@ If you need summative assessment that resists AI shortcuts:
 
 ## Tip #7: Critical AI Literacy
 
-**Principle:** Teach students to question AI systems, not just use them.
+**Principle:** Teach students to understand an AI system and question the authority behind it..
 
-AI is not neutral. It embeds the biases, priorities, and limitations of its training data and design. Students who use AI without understanding these dynamics risk uncritical acceptance of its outputs.
+AI is not neutral. It embeds the biases, priorities, and limitations of its training data, design, and patrons’ standpoints. Students who use AI without understanding these dynamics risk uncritical acceptance of its outputs.
 
 Critical AI literacy asks students to evaluate:
-- **What the model knows and doesn't know:** Training data is frozen in time. The model cannot access current events or recent research.
+- **What the model knows and doesn't know:** The training data is frozen in a particular time, meaning that the model often cannot access current events or recent research.
 - **Whose perspectives are represented:** AI training data overrepresents English-language, Western, affluent voices.
 - **How the model was incentivized:** What outputs were rewarded during training? Fluency? Confidence? Compliance?
-- **What the model cannot do:** It cannot fact-check itself. It cannot weigh ethical considerations. It cannot understand context the way humans do.
+- **What the model cannot do:** AI cannot fact-check itself. It is also considered amoral, as it cannot weigh ethical considerations. And while it can recognize patterns in language and media, it does not contextualize information in the socially situated way humans do.
 
 **Activities:**
 
-- **Compare sources:** Have students ask a model for information on a topic, then compare its response to authoritative sources. Where do they align? Where do they diverge? Why?
+- **Compare sources:** Have students ask a model for information on a topic, then compare its response to several reliable sources. Where do they align? Where do they diverge? Why?
 - **Bias audit:** Ask students to prompt the model on a culturally sensitive topic (e.g., immigration policy, religious practices). Analyze the response for bias or omission.
 - **Reverse engineering:** Have students try to figure out what instructions or training data would produce a given AI output.
 - **Failure modes:** Task students with finding cases where the model fails, hallucinates, or produces nonsense. What patterns do they notice?
@@ -196,27 +199,8 @@ AI tools can support or marginalize these students depending on how you deploy t
 
 - **Multilingual support:** Configure models to help students work in their home languages and translate to English when needed.
 - **Flexible pacing:** Allow students to use AI for time-intensive tasks (e.g., literature search) so they can focus cognitive effort on higher-order thinking.
-- **Scaffolded prompts:** Provide example prompts students can adapt. Not all students know how to talk to AI effectively.
 - **Accessibility:** Ensure models support screen readers and other assistive technologies.
 - **Cultural responsiveness:** Acknowledge that students' prior knowledge and lived experiences are valid sources of authority. AI models should supplement, not replace, those perspectives.
-
----
-
-## Tip #9: Transparency
-
-**Principle:** Be explicit about when and how you use AI in your teaching.
-
-Students learn AI literacy from your modeling. If you use AI to design assignments, draft feedback, or find resources, tell them. Explain your reasoning. Show them your prompts. Discuss what worked and what didn't.
-
-Transparency builds trust. Students see that you are navigating the same uncertainties they are.
-
-**Example:**
-
-> "I used the model to locate five papers on scaffolding in writing pedagogy. I verified each citation and read the abstracts to confirm relevance. Two were useful. Three were off-target. Here's what I learned about prompting for academic sources..."
-
-This disclosure does two things:
-1. It models critical AI use
-2. It shows students that AI is a tool, not an oracle
 
 ---
 

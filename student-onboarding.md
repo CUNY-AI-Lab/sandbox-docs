@@ -1,6 +1,6 @@
 # Student Onboarding
 
-The first time students use the Sandbox, they need more than a login link. They need context: what this tool is, what it can and cannot do, and how you expect them to use it in your course. This page outlines a first-week onboarding plan you can adapt to any discipline.
+Students need context when their first use CUNY CAIL Sandbox, and the instructor should be clear with them about what this tool is, what it can and cannot do, and how you expect them to use it in your course. This page outlines a first-week onboarding plan you can adapt to any discipline before introducing the tool into your classroom.
 
 ---
 
@@ -9,26 +9,26 @@ The first time students use the Sandbox, they need more than a login link. They 
 ### Prepare Your Environment
 
 1. Create the models and knowledge bases students will use (see the [Design & Test section](index.md))
-2. Set visibility to **Limited** and share with your course group
+2. Set visibility to **Limited** and share them with your course group
 3. Test each model with the kinds of questions your students will ask
 4. Write a brief AI use policy for your syllabus (see the template below)
 
 ### Draft Your AI Use Policy
 
-Students arrive with wildly different assumptions about AI. Some have used ChatGPT daily for a year. Some have never touched it. Some believe AI is cheating. Some believe it can write their papers for them. A clear policy sets expectations.
+Students arrive with wildly different assumptions about AI, while others have never touched it. Some students may believe AI is cheating, while others believe it can write their papers for them. A clear policy sets expectations.
 
 Your policy should address:
 
 - **What is allowed:** Which assignments permit AI use? Which do not?
 - **How to cite AI use:** What disclosure is expected when students use AI in their work?
 - **What counts as the student's work:** Where is the line between using AI as a tool and submitting AI output as your own?
-- **Privacy:** What should students avoid sharing with the model? (Personal data, other students' work, confidential materials.)
+- **Privacy:** What should students avoid sharing with the model? (Personal data, other students' work, confidential materials, etc.)
 
 **Template:**
 
 > This course uses the CUNY CAIL Sandbox for specific assignments marked [AI-Assisted]. For these assignments, you may use the course model to brainstorm, get feedback, or explore ideas. You must disclose AI use in your submission and describe how you used it. All final writing, analysis, and argumentation must be your own. Do not paste other students' work or personal information into any AI tool. For assignments not marked [AI-Assisted], AI use is not permitted.
 
-Adapt the template to your context. Some courses will be more permissive. Some will restrict AI to specific tasks. The key is clarity.
+Make sure to adapt the template to specific context as courses will be more permissive or restrictive depending on the instructor’s design. 
 
 ---
 
@@ -43,12 +43,6 @@ Frame the Sandbox in your course context. Students need to understand why you ch
 - "How many of you have used ChatGPT or a similar AI tool? What did you use it for?"
 - "What do you think AI tools are good at? What are they bad at?"
 - "Why might a [discipline] course use AI tools differently than a [other discipline] course?"
-
-**Key Points to Cover:**
-
-- The Sandbox is hosted by CUNY. Student data stays on CUNY infrastructure. No third-party tracking. No training on your inputs.
-- The course model is configured for this class. It has access to your readings and follows your instructor's guidelines.
-- AI is a tool in this course, not a shortcut. You will use it for specific purposes tied to learning objectives.
 
 ### Day 1: First Login (10 minutes)
 
@@ -68,7 +62,7 @@ Give students a low-stakes prompt to try. This builds comfort with the interface
 
 **Starter Prompt:** "Ask the course model to explain one concept from last week's reading that you found confusing. Then ask a follow-up question about its response."
 
-Walk the room. Answer questions. Let students discover the interface at their own pace.
+Walk the roomand answer questions if any. Let students discover the interface at their own pace.
 
 ---
 
@@ -88,18 +82,17 @@ Once students are comfortable with the interface, introduce critical engagement.
 
 ---
 
-## Common Student Questions
+## Common Student Questions:
 
-Anticipate these and have answers ready:
 
 **"Is this cheating?"**
-Not when used as directed. Your AI use policy defines the boundaries. Using the course model for an [AI-Assisted] assignment is the same as using a calculator in a math class or a spell-checker in a writing class. Using it on a non-AI assignment, or submitting AI output as your own work, violates course expectations.
+Not when used as directed. The course’s AI use policy defines the boundaries, so using the course model for an [AI-Assisted] assignment accordingly is the same as using a calculator in a math class or a spell-checker in a writing class. However, using it on a non-AI assignmentor submitting AI output as your own work is a direct violation of course policies.
 
 **"Can the AI see my other conversations?"**
-Each conversation is separate. The model does not remember previous chats unless you are in the same thread. Other students cannot see your conversations.
+Each conversation is separate. The model does not remember previous chats unless you are in the same thread. 
 
 **"Is CUNY reading my conversations?"**
-The Sandbox is hosted on CUNY infrastructure. Administrators can access system logs. Your conversations are not shared with other students or used to train AI models. See the Sandbox privacy documentation for details.
+The Sandbox is hosted on CUNY infrastructure so the Sandbox administrators can access system logs. Your conversations are not shared with other students or used to train AI models. Other students cannot see your conversations as well unless you are in a group channel. For more information, see the Sandbox privacy documentation.
 
 **"What if the model gives wrong information?"**
 It will. AI models generate plausible text, and sometimes that text is inaccurate. That is why this course teaches you to evaluate AI output critically. Treat the model's responses as a starting point for your own thinking, not a finished product.
@@ -110,14 +103,13 @@ It will. AI models generate plausible text, and sometimes that text is inaccurat
 
 ### Build on the Foundation
 
-- Reference the onboarding experience in later assignments. ("Remember when we fact-checked the model in week 1?")
-- Revisit the AI use policy mid-semester. Students' understanding of AI evolves with use.
+- Reference the onboarding experience in later assignments.
+- Invite the class to revisit and revise the AI use policy mid-semester as students' understanding of AI evolves with use.
 - Share interesting student discoveries with the class. When someone finds a creative use or catches an interesting error, make it a teaching moment.
 
 ### Monitor and Adjust
 
-- Check in with students about their AI use every few weeks
-- Ask what is working and what is frustrating
+- Check in with students about their AI use every few weeks; ask what is working and what is frustrating
 - Adjust model configurations based on how students actually use them
 - Update your knowledge bases as the course progresses (add new readings, remove outdated materials)
 
@@ -126,7 +118,7 @@ It will. AI models generate plausible text, and sometimes that text is inaccurat
 ## Callout
 
 <div class="callout">
-  <strong>For TAs and teaching staff:</strong> Familiarize yourself with the course model before the semester starts. Students will ask you questions about AI that go beyond the onboarding materials. Spend 30 minutes exploring the model so you can answer from experience.
+  <strong>For TAs and teaching staff:</strong> Familiarize yourself with the course model before the semester starts: spending 30 minutes exploring the model and its function so that you can answer from experience when students ask you questions about AI and the course.
 </div>
 
 ---
@@ -140,3 +132,4 @@ It will. AI models generate plausible text, and sometimes that text is inaccurat
 ---
 
 [← Return to Sample Activities](sample-activities.md) | [Continue to Use Cases →](use-cases.md)
+

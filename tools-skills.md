@@ -30,9 +30,6 @@ Out of the box, a model can only generate text. Tools change that: enable a tool
 5. Click **Save**
    - Every conversation with this model will now have access to these tools
 
-![Binding tools to a model](images/bind-tools.gif)
-<!-- TODO: Record GIF of editing a model and checking tools in the Tools section -->
-
 ### Community Tool Library
 
 Open WebUI maintains a community library of pre-built tools. Some relevant to academic work:

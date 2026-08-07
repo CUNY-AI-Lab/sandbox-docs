@@ -12,9 +12,6 @@ When you log in, you see the main chat interface. Three areas:
 2. **Chat area (center):** The conversation thread and input box
 3. **Top bar:** Model selector, settings, profile
 
-![Main interface overview](images/tour/main-interface.png)
-<!-- TODO: Screenshot of main interface with three areas labeled -->
-
 ---
 
 ## Sidebar
@@ -35,9 +32,6 @@ The sidebar has several sections:
 - User settings (preferences, defaults)
 - Admin panel (if you're an administrator)
 
-![Sidebar detail](images/tour/sidebar.png)
-<!-- TODO: Screenshot of sidebar with sections labeled -->
-
 ---
 
 ## Starting a Conversation
@@ -51,9 +45,6 @@ A new conversation opens. You'll see:
 
 Type a message and press Enter to send.
 
-![New chat screen](images/tour/new-chat.png)
-<!-- TODO: Screenshot of empty new chat screen -->
-
 ---
 
 ## Switching Models
@@ -63,9 +54,6 @@ Click the **model name** at the top of the chat area.
 A dropdown appears showing all available models. Click one to switch.
 
 Your conversation history stays the same. Only the model responding changes.
-
-![Model selector dropdown](images/tour/model-selector.png)
-<!-- TODO: Screenshot of model selector dropdown open -->
 
 ---
 
@@ -87,9 +75,6 @@ The input box has several buttons:
 - Send your message
 - Or press Enter on your keyboard
 
-![Input box detail](images/tour/input-box.png)
-<!-- TODO: Screenshot of input box with icons labeled -->
-
 ---
 
 ## Workspace: Models
@@ -102,9 +87,6 @@ You'll see:
 - A **+ New Model** button to create one
 
 Click **+ New Model** to open the model editor.
-
-![Workspace Models view](images/tour/workspace-models.png)
-<!-- TODO: Screenshot of Workspace > Models page -->
 
 ---
 
@@ -130,9 +112,6 @@ The model editor has several sections:
 **Skills**
 - Bind domain expertise (if available)
 
-![Model editor interface](images/tour/model-editor.png)
-<!-- TODO: Screenshot of model editor with sections labeled -->
-
 ---
 
 ## Workspace: Knowledge
@@ -145,9 +124,6 @@ You'll see:
 - A **+ Create a Knowledge Base** button
 
 Click **+ Create a Knowledge Base** to start building a document collection.
-
-![Workspace Knowledge view](images/tour/workspace-knowledge.png)
-<!-- TODO: Screenshot of Workspace > Knowledge page -->
 
 ---
 
@@ -168,9 +144,6 @@ When creating or editing a knowledge base:
 **Connected Models**
 - See which models use this knowledge base
 - Add or remove connections
-
-![Knowledge base editor](images/tour/knowledge-editor.png)
-<!-- TODO: Screenshot of knowledge base editor with upload area -->
 
 ---
 
@@ -194,9 +167,6 @@ You'll see several tabs:
 - Temperature (controls response creativity)
 - System prompt (global instructions for all chats)
 
-![Settings panel](images/tour/settings.png)
-<!-- TODO: Screenshot of settings panel with tabs visible -->
-
 ---
 
 ## Conversation Actions
@@ -206,9 +176,6 @@ In any conversation, click the **three dots** next to a message to:
 - **Copy** the message text
 - **Delete** the message
 - **Regenerate** the response (ask the model to try again)
-
-![Message actions menu](images/tour/message-actions.png)
-<!-- TODO: Screenshot of message actions dropdown menu -->
 
 ---
 
@@ -223,9 +190,6 @@ Options:
 - **Share** — Generate a share link
 
 Renaming helps you find conversations later.
-
-![Chat options menu](images/tour/chat-options.png)
-<!-- TODO: Screenshot of chat options menu in sidebar -->
 
 ---
 

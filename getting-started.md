@@ -32,9 +32,6 @@ The Sandbox gives you a shared AI platform where you can create custom agents, g
 4. **You'll land on the main chat interface**
    - Clean layout. Chat input at the bottom. Model selector at the top. Sidebar on the left with workspace features.
 
-![First login walkthrough](images/first-login.gif)
-<!-- TODO: Record GIF showing login flow through CUNY auth to landing page -->
-
 **Voila!** You're in. Now let's have a conversation.
 
 ---
@@ -78,9 +75,6 @@ For terminology and interface layout, see [Sandbox Basics](sandbox-basics.md).
 **Account Tab:**
 - **Profile Picture** — Optional, but helps when collaborating with colleagues
 - **Display Name** — How your name appears to others when you share models or knowledge bases
-
-![Settings panel with key options highlighted](images/settings-overview.png)
-<!-- TODO: Screenshot of settings panel with annotations on default model -->
 
 ### Save and Return to Chat
 

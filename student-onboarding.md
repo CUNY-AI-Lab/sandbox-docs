@@ -53,9 +53,6 @@ Walk students through the login process. Project your screen or share a link to 
 3. Authenticate with CUNY credentials
 4. Locate the course model in the model selector dropdown
 
-![Students logging in for the first time](images/student-first-login.gif)
-<!-- TODO: Record GIF of the student login flow -->
-
 ### Day 1: Guided First Conversation (15 minutes)
 
 Give students a low-stakes prompt to try. This builds comfort with the interface.

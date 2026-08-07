@@ -24,9 +24,6 @@ Consider the difference. A student asks your course model: "What does the syllab
    - **Public**: available to all Sandbox users
 7. Click **Create**
 
-![Creating a knowledge base](images/create-knowledge-base.gif)
-<!-- TODO: Record GIF of the knowledge base creation flow -->
-
 ### Uploading Documents
 
 8. **Drag and drop files** into the knowledge base, or click to browse

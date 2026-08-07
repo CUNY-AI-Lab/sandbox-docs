@@ -25,9 +25,6 @@ Here's how to build a custom model:
    - **Public**: available to all Sandbox users
 10. Click **Save**
 
-![Creating a custom model](images/create-model.gif)
-<!-- TODO: Record GIF of the model creation flow from Workspace → Models → + New Model → Save -->
-
 ## System Prompt
 
 The system prompt defines how the model behaves: its role, boundaries, and instructional approach. Write it in step 5 above. For patterns, examples, and advanced prompt techniques, see [System Prompts as Instructional Design](system-prompts.md).

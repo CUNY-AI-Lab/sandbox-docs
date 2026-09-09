@@ -26,4 +26,6 @@ jobs:
         with:
           bun-version: 1.3.14
       - name: Check local site references
-        run: bun scripts/check-static-site.js
+        run: |
+          bun scripts/check-static-site.js
+          bun scripts/check-redirect.js

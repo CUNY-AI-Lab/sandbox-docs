@@ -1,0 +1,18 @@
+# Keep source Markdown in Git; publish only the redirect pages.
+exclude:
+  - basic-concepts.md
+  - getting-started.md
+  - index.md
+  - knowledge-bases.md
+  - models.md
+  - quick-tour.md
+  - roles-permissions.md
+  - sample-activities.md
+  - sandbox-basics.md
+  - student-onboarding.md
+  - system-prompts.md
+  - teaching-tips.md
+  - tools-skills.md
+  - use-cases.md
+  - scripts
+  - README.md
